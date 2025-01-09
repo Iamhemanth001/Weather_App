@@ -45,15 +45,9 @@ To run this project locally:
 
 ## Usage
 
--Enter the name of a city in the search box.
--Click on the "Search" button to fetch weather data.
--View the weather details displayed below the search box.
--The app will display the current weather information such as:
-  Temperature (in Celsius)
-  Feels like
-  Humidity
-  Pressure
-  Weather description
+- Enter the name of a city in the search box.
+- Click on the "Search" button to fetch weather data.
+- View the weather details displayed below the search box.
 
 Demo Live project: https://weather-app-eta-six-78.vercel.app
 GitHub Repository Source code: https://github.com/Iamhemanth001/Weather_App
