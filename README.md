@@ -49,7 +49,9 @@ To run this project locally:
 - Click on the "Search" button to fetch weather data.
 - View the weather details displayed below the search box.
 
-Demo Live project: https://weather-app-eta-six-78.vercel.app
-GitHub Repository Source code: https://github.com/Iamhemanth001/Weather_App
+# Demo Live project: https://weather-app-eta-six-78.vercel.app
+
+# GitHub Repository Source code: https://github.com/Iamhemanth001/Weather_App
+
 Contributing Feel free to fork this repository, submit issues, or create pull requests. Contributions are welcome!
 This version is polished and ready to go! Let me know if you need any further changes. 😊
