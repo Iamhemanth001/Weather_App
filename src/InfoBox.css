@@ -1,0 +1,37 @@
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    width: 120vh !important;
+    border-radius: 16px !important;
+    background-color: transparent !important;
+    box-shadow: 0px 0px 9px 3px green !important;
+}
+
+.componets,.cityname{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.componets div ,.cityname div{
+    /* background-color: white; */
+    border: 2px solid #449600;
+    box-shadow: 0px 0px 6px 1px #003280;
+    margin-top: 8px;
+    width: 11rem;
+    height: 3rem;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 3rem;
+    font-weight: 700;
+}
+
+span{
+    color: #00ff00;
+}
